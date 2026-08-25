@@ -1,0 +1,5 @@
+tasks.json
+new_file.py
+test_file.py
+__pycache__/
+*.pyc
