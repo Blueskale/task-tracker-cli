@@ -29,7 +29,7 @@ The application allows users to create, update, delete, and manage tasks directl
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Blueskale/task-tracker-cli.git
 ```
 
 Navigate into the project:
