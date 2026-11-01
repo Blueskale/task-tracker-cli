@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+![Python](https://img.shields.io/badge/Python-3.6%2B-3776AB?logo=python&logoColor=white) ![Dependencies](https://img.shields.io/badge/dependencies-none-7aa2f7) ![Storage](https://img.shields.io/badge/storage-JSON-bb9af7)
+
 A simple command-line task tracker built with Python.
 
 The application allows users to create, update, delete, and manage tasks directly from the terminal. Tasks are stored locally in a JSON file.
@@ -26,7 +28,7 @@ The application allows users to create, update, delete, and manage tasks directl
 
 ## Installation
 
-Clone the repository:
+Requires Python 3.6 or newer. Clone the repository:
 
 ```bash
 git clone https://github.com/Blueskale/task-tracker-cli.git
@@ -35,7 +37,7 @@ git clone https://github.com/Blueskale/task-tracker-cli.git
 Navigate into the project:
 
 ```bash
-cd task-tracker
+cd task-tracker-cli
 ```
 
 No external Python packages are required.
